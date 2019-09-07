@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](image.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
