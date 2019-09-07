@@ -1,18 +1,29 @@
 ## Flutter Project Kemerdekaan RI ke-74 (Tugas 2 - OSG05)
 
-A new Flutter project.
+# Screenshoot
 
 ![alt text](images/Capture.PNG)
 
-## Getting Started
+# Built With
+- Flutter
+- SingleChildScrollView
 
-This project is a starting point for a Flutter application.
+# Created By
+- Hartanto Santoso
 
-A few resources to get you started if this is your first Flutter project:
+# Online Study Group Eudeka!
+salah satu course dari Eudeka yang belajar tentang membuat aplikasi yang bersifat hybrid dengan Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# OSG05 - Flutter Basic
+Dengan jangka waktu lebih kurang 2 bulan, peserta diharapkan dapat mengenal dan membuat aplikasi simple Flutter dengan menggunakan data dari internet (API).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Cara Mendaftar Online Study Group
+Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di bawah ini.
+
+# Info Lebih Lengkap
+Website : www.eudeka.id
+Twitter: @EudekaID
+Telegram : @eudekainfo
+Instagram : @eudeka.id
+WhatsApp : 0895351577557
+Email : info@eudeka.id
