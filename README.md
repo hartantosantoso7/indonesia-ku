@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![alt text](images/capture.png)
+![alt text](images/Capture.PNG)
 
 ## Getting Started
 
