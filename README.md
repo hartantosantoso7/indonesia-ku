@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![alt text](images/indonesia.jpg)
+![alt text](images/capture.png)
 
 ## Getting Started
 
