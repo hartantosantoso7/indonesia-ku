@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![alt text](image.jpg)
+![alt text](images/indonesia.jpg)
 
 ## Getting Started
 
