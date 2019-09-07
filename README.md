@@ -1,26 +1,26 @@
-## Flutter Project Kemerdekaan RI ke-74 (Tugas 2 - OSG05)
+# Flutter Project Kemerdekaan RI ke-74 (Tugas 2 - OSG05)
 
-# Screenshoot
+## Screenshoot
 
 ![alt text](images/Capture.PNG)
 
-# Built With
+## Built With
 - Flutter
 - SingleChildScrollView
 
-# Created By
+## Created By
 - Hartanto Santoso
 
-# Online Study Group Eudeka!
+## Online Study Group Eudeka!
 salah satu course dari Eudeka yang belajar tentang membuat aplikasi yang bersifat hybrid dengan Flutter
 
-# OSG05 - Flutter Basic
+## OSG05 - Flutter Basic
 Dengan jangka waktu lebih kurang 2 bulan, peserta diharapkan dapat mengenal dan membuat aplikasi simple Flutter dengan menggunakan data dari internet (API).
 
-# Cara Mendaftar Online Study Group
+## Cara Mendaftar Online Study Group
 Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di bawah ini.
 
-# Info Lebih Lengkap
+## Info Lebih Lengkap
 - Website : www.eudeka.id
 - Twitter: @EudekaID
 - Telegram : @eudekainfo
