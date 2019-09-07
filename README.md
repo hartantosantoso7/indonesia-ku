@@ -21,9 +21,9 @@ Dengan jangka waktu lebih kurang 2 bulan, peserta diharapkan dapat mengenal dan 
 Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di bawah ini.
 
 # Info Lebih Lengkap
-Website : www.eudeka.id
-Twitter: @EudekaID
-Telegram : @eudekainfo
-Instagram : @eudeka.id
-WhatsApp : 0895351577557
-Email : info@eudeka.id
+- Website : www.eudeka.id
+- Twitter: @EudekaID
+- Telegram : @eudekainfo
+- Instagram : @eudeka.id
+- WhatsApp : 0895351577557
+- Email : info@eudeka.id
